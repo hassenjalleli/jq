@@ -1,0 +1,19 @@
+.text{
+    display:inline-block;
+}
+#text{
+    height: 400px;
+    width: 100%;
+}
+#zina{
+    background-color: #eee
+}
+#louta{
+    padding-top: 2%
+}
+.text{
+   margin:2px;
+   color: b;
+   text-decoration: none;
+   
+}
